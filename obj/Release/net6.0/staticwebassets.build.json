@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lcfiMYee8bdZnCLwGd+w+nXFdle8zDCepmGA8Z4Capc=",
+  "Source": "VivaWallet",
+  "BasePath": "_content/VivaWallet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
